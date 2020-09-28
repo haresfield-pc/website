@@ -6,3 +6,18 @@
 body {
     font: 18px/1.75 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
+  
+header {
+    width:350px;
+  }
+
+.wrapper {
+    width:950px;
+    margin:0 auto;
+  }
+  
+section {
+    width:550px;
+    float:right;
+    padding-bottom:50px;
+  }
