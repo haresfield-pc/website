@@ -22,7 +22,7 @@ jobs:
         env:
           Input__Path: '/github/workspace/downloads'
           Input__Filter: '*.*'
-          Output__Tile: 'Downloads'
+          Output__Title: 'Downloads'
           Output__RepoName: 'haresfield-pc/downloads'
           Output__RepoUrl: 'https://github.com/haresfield-pc/downloads'
           Output__FileBaseUrl: 'https://raw.githubusercontent.com/haresfield-pc/downloads/master'
