@@ -2,8 +2,7 @@ name: Generate minutes list
 
 on: 
   push:
-  repository_dispatch:
-    types: [minutes]
+  workflow_dispatch:
 
 jobs:
   build:
