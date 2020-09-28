@@ -1,8 +1,8 @@
 
 ![Aerial picture of Haresfield village](img/village.jpg)
 
-* [Councillors](councillors.md)
+* Contact one of our [Parish Councillors](councillors.md)
 
-* [Meeting Minutes](minutes.md)
+* View the [Prish Council Meeting Minutes](minutes.md)
 
-* [Other Dowloads](downloads.md)
+* And our [Other Dowloads](downloads.md)
